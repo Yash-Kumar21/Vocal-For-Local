@@ -1,0 +1,35 @@
+button a{
+    text-decoration: none;
+    color: white;
+}
+button a:hover{
+    color: white;
+}
+.container{
+    padding: 50px;
+}
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+}
+.headi{
+    text-align: center;
+}
+.fnav{
+    margin: auto;
+}
+.foot{
+    margin: auto;
+}
+.footl{
+    text-align: center;
+}
